@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "react-native-todo",
+    "slug": "react-native-todo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/go_to_the_home.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Snipaste_2023-03-10_12-03-29.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#e8e8e8"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/go_to_the_home.png"
+    }
+  }
+}
